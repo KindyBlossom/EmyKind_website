@@ -25,9 +25,6 @@ const MyMapComponent = compose(
   </GoogleMap>
   
 );
-console.log(process.env.REACT_APP_API_URL)
-console.log(process.env.REACT_APP_API_KEY)
-console.log(process.env.REACT_APP_API_KEY)
-console.log(process.env.REACT_APP_API_KEY)
+
 
 export default MyMapComponent;
