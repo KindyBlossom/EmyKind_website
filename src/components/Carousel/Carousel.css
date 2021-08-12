@@ -1,0 +1,23 @@
+
+
+@media screen and (max-width:480px){
+    .floraldesign{
+        margin-left: 10vw! important;
+        overflow: hidden! important;
+    } 
+}
+
+@media screen and (max-width:344px){
+    .floraldesign{
+        margin-left: 2vw! important;
+        overflow: hidden! important;
+    } 
+}
+
+@media screen and (max-width:260px){
+    .floraldesign{
+        display: none! important;
+        overflow: hidden! important;
+        
+    } 
+}

@@ -1,0 +1,24 @@
+.row{
+    margin-top: 20px! important;
+    margin-bottom: 50px! important;
+    overflow: hidden! important;
+
+}
+.col-md-5{
+    background-color: white;
+    margin-top: 10px! important;
+    border-radius: 10px;
+    font-family: 'Saira Condensed', sans-serif;
+    text-align: center;
+    box-shadow: 0 0 5px #999;
+    /* overflow: hidden! important; */
+
+
+}
+h3{
+    text-transform: Camelcase;
+    padding-bottom: 10px;
+    color: #0F2A5F;
+    font-family: 'Alex Brush', cursive;
+
+}
