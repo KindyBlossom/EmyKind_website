@@ -10,7 +10,7 @@ const Infosec = ({id}) => {
             <div className="row justify-content-center">
                 <div className=" col-md-5 m-3 p-4">
                     <h3><FaHeart style={iconStyles}/> Our Love <FaHeart style={iconStyles}/></h3>
-                    <p>To the Perfect Partner! It's blissful seeing our wish finally come true. I can't imagine doing Life with anyone else but you! It's so great to find that special person you want to annoy for the rest of your life. May Our Love continue to grow in Abundance! Love you Forever and Always. </p>
+                    <p>To the Best Partner! It's blissful seeing our wish finally come true. I can't imagine doing Life with anyone else but you! It's so great to find that special person you want to annoy for the rest of your life. May Our Love continue to grow in Abundance! Love you Forever and Always. </p>
                 </div>
                 <div className=" col-md-5 m-3 p-4">
                     

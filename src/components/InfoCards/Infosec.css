@@ -22,3 +22,9 @@ h3{
     font-family: 'Alex Brush', cursive;
 
 }
+
+@media screen and (max-width: 760px) {
+    .col-md-5{
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+  }
